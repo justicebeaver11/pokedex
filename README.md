@@ -2,11 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Install the npm package first by running:
+
+`npm install`
 ## Available Scripts
 
 In the project directory, you can run:
 
 ### `npm start`
+
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -44,3 +49,10 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+This react-app has various pokemon api, with search functionality.
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/465b4d14-6636-42c7-9ff5-4965f2e8cb93">
+
+<img width="944" alt="image" src="https://github.com/user-attachments/assets/ec83d002-cced-4a0a-b6f7-3e82dc26f58a">
+
